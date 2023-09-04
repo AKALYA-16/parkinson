@@ -1,0 +1,22 @@
+{
+    "name": "streamlitappheroku",
+    "version": "1.0.0",
+    "description": " ",
+    "main": "app.py",
+    "scripts": {
+        "start": " node app.py"
+        },
+        "repository": {
+            "type": "module",
+            "url": "git+https://github.com/PramodBandgar/streamlitappheroku.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+            "url": "https://github.com/PramodBandgar/streamlitappheroku/issues"
+        },
+        "homepage": "https://github.com/PramodBandgar/streamlitappheroku#readme",
+        "dependencies":{
+            "express": "4.18.2"
+        }
+}
